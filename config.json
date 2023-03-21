@@ -1,0 +1,5 @@
+{
+    "debug": true,
+    "port": 6001,
+    "host": "https://soketi.test"
+}
